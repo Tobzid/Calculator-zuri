@@ -1,2 +1,2 @@
 # Calculator-zuri
-First commit
+https://tobzid.github.io/Calculator-zuri/
